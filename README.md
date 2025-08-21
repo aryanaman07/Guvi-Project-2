@@ -148,5 +148,3 @@ streamlit run app.py
 B.Tech CSE (Data Science) | ML & AI Enthusiast
 
 ---
-
-👉 Do you also want me to **add a demo screenshot/GIF section** (showing your Streamlit app in action) so your GitHub repo looks even more attractive?
