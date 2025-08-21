@@ -1,6 +1,8 @@
-Python
+streamlit
 scikit-learn
 pandas
 numpy
+nltk
 joblib
-streamlit
+
+
