@@ -146,5 +146,11 @@ streamlit run app.py
 
 **Aryan Aman**
 B.Tech CSE (Data Science) | ML & AI Enthusiast
+---
 
+---
+
+## You can access our live project
+* https://movie-sentiment-analyzer.streamlit.app/
+  
 ---
